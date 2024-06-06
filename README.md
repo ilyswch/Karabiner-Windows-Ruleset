@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ilyswch/Karabiner-Windows-Rulset/main/docs/icon.png" width="50"/> Karabiner-Windows-Ruleset
+# <img src="https://raw.githubusercontent.com/ilyswch/Karabiner-Windows-Ruleset/main/docs/icon.png" width="50"/> Karabiner-Windows-Ruleset
 
 A ruleset for [Karabiner-Elements](https://karabiner-elements.pqrs.org) to use Windows keyboard shortcuts on macOS.
 
@@ -7,7 +7,7 @@ This configuration helped me a lot when I switched from Windows to macOS and can
 ## Installation
 To import the rules, simply paste the link into a web browser.
 
-    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/ilyswch/Karabiner-Windows-Rulset/main/karabiner.json
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/ilyswch/Karabiner-Windows-Ruleset/main/karabiner.json
 
 You can find the folder with your configurations under the following path:
 
